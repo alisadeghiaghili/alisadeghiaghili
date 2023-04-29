@@ -12,9 +12,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=alisadeghiaghili&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghiaghili&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-[comment]: <> (## 🏆 GitHub Trophies)
-[//]: # (![](https://github-profile-trophy.vercel.app/?username=alisadeghiaghili&theme=radical&no-frame=false&no-bg=true&margin-w=4))
-
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=alisadeghi67)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
 
