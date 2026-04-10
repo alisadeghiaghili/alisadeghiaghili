@@ -71,18 +71,6 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Stats](https://github-readme-stats.vercel.app/api?username=alisadeghiaghili&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghiaghili&theme=dark&hide_border=true&layout=compact&count_private=true)
-
-</div>
-
----
-
 <div align="center">
 <sub>Open to collaboration on data science, ML tooling, LLMs, and open-source projects · <a href="mailto:alisadeghiaghili@gmail.com">alisadeghiaghili@gmail.com</a></sub>
 </div>
