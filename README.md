@@ -61,6 +61,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 | 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ⭐ 18 |
 | 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ⭐ 14 |
 | 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ⭐ 9 |
+| ⏬ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ⭐ 1 |
 | 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | 🔬 |
 | 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ⭐ 2 |
 | ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ⭐ 4 |
