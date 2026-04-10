@@ -1,20 +1,87 @@
-## 💫 About Me:
-🔭 I’m currently working on IME<br>💬 Ask me about data
+<div align="center">
 
+# Ali Sadeghi Aghili
+### Data Scientist · AI Engineer · Open-Source Builder
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Hellch!ef#5336) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedatascientist) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sadeghi-aghili) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-sadeghi-aghili) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alisadeghi67) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-sadeghi-aghili)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/alisadeghi67)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedatascientist)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-sadeghi-aghili)
+[![Links](https://img.shields.io/badge/🔗_All_Links-lightgrey)](https://linktr.ee/aliaghili)
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 	![Julia](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=alisadeghiaghili&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=alisadeghiaghili&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghiaghili&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alisadeghiaghili&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=alisadeghiaghili&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 👋 Who am I?
+
+I'm a **Data Scientist and AI Engineer** with a PhD in Automation, focused on building production-grade ML systems for **Industry 4.0** environments. I don't just prototype — I ship things that run in the real world, on real data, under real constraints.
+
+Currently leading AI & data initiatives at **IME**, where I architect data pipelines, deploy ML models, and orchestrate workflows with Apache Airflow. I build and maintain open-source Python and R packages, and I care deeply about clean APIs, solid documentation, and reproducibility.
+
+- 🔬 Core expertise: **statistical modeling, distribution fitting, anomaly detection, time-series, ETL pipelines**
+- 🤖 Working with: **LLMs, Apache Airflow, ML pipelines, data engineering**
+- 📦 Publisher of **Python & R packages** used in production
+- 🌍 Based in **Tehran, Iran** — building in the open
+
+---
+
+## 🧰 Core Stack
+
+**Languages**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/R-%23276DC3.svg?style=flat-square&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft%20sql%20server&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white)
+
+**ML / Data**
+
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
+
+**Infra & Orchestration**
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+
+---
+
+## 📦 Featured Projects
+
+| Project | Description | Lang | Stars |
+|---|---|---|---|
+| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ⭐ 18 |
+| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ⭐ 14 |
+| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ⭐ 9 |
+| 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | 🔬 |
+| 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ⭐ 2 |
+| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ⭐ 4 |
+| 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ⭐ 5 |
+| 📈 [ETLWithPython](https://github.com/alisadeghiaghili/ETLWithPython) | ETL pipeline patterns in Python | Python | ⭐ 2 |
+| 💹 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ⭐ 1 |
+| 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ⭐ 2 |
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Stats](https://github-readme-stats.vercel.app/api?username=alisadeghiaghili&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alisadeghiaghili&theme=dark&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghiaghili&theme=dark&hide_border=true&layout=compact&count_private=true)
+
+</div>
+
+---
+
+<div align="center">
+<sub>Open to collaboration on data science, ML tooling, LLMs, and open-source projects · <a href="mailto:alisadeghiaghili@gmail.com">alisadeghiaghili@gmail.com</a></sub>
+</div>
