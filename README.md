@@ -76,7 +76,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 <div align="center">
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=alisadeghiaghili&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alisadeghiaghili&theme=dark&hide_border=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alisadeghiaghili&theme=dark&hide_border=true&layout=compact&count_private=true)
 
 </div>
