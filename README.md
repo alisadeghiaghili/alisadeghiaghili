@@ -57,6 +57,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 | Project | Description | Lang | Stars |
 |---|---|---|---|
+| 📊 [py-distfit-pro](https://github.com/alisadeghiaghili/py-distfit-pro) | Production-grade statistical distribution fitting — 30 distributions, MLE/MoM/Quantile, Bootstrap CI, multilingual (EN/FA/DE) | Python | 🔬 |
 | 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ⭐ 18 |
 | 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ⭐ 14 |
 | 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ⭐ 9 |
