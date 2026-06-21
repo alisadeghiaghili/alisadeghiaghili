@@ -55,20 +55,20 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ## 📦 Featured Projects
 
-| Project | Description | Lang | Stars |
-|---|---|---|---|
-| 📊 [py-distfit-pro](https://github.com/alisadeghiaghili/py-distfit-pro) | Production-grade statistical distribution fitting — 30 distributions, MLE/MoM/Quantile, Bootstrap CI, multilingual (EN/FA/DE) | Python | 🔬 |
-| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ⭐ 18 |
-| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ⭐ 14 |
-| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ⭐ 9 |
-| ⏬ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ⭐ 1 |
-| 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | 🔬 |
-| 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ⭐ 2 |
-| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ⭐ 4 |
-| 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ⭐ 5 |
-| 📈 [ETLWithPython](https://github.com/alisadeghiaghili/ETLWithPython) | ETL pipeline patterns in Python | Python | ⭐ 2 |
-| 💹 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ⭐ 1 |
-| 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ⭐ 2 |
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| 📊 [py-distfit-pro](https://github.com/alisadeghiaghili/py-distfit-pro) | Production-grade statistical distribution fitting — 30 distributions, MLE/MoM/Quantile, Bootstrap CI, multilingual (EN/FA/DE) | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/py-distfit-pro?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/py-distfit-pro?style=flat-square) |
+| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/farsi-faker?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/farsi-faker?style=flat-square) |
+| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
+| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
+| ⏬ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/smart-dl?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/smart-dl?style=flat-square) |
+| 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/distfitr?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/distfitr?style=flat-square) |
+| 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/missingly?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/missingly?style=flat-square) |
+| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
+| 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/password-generator?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/password-generator?style=flat-square) |
+| 📈 [ETLWithPython](https://github.com/alisadeghiaghili/ETLWithPython) | ETL pipeline patterns in Python | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ETLWithPython?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ETLWithPython?style=flat-square) |
+| 💹 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/tgju-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/tgju-data-collector?style=flat-square) |
+| 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ice-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ice-data-collector?style=flat-square) |
 
 ---
 
