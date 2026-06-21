@@ -55,23 +55,50 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ## 📦 Featured Projects
 
+### 🤖 AI & LLM
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| 🤖 [local-sql-agent](https://github.com/alisadeghiaghili/local-sql-agent) | Chat with your SQL database in plain English — fully local AI agent powered by Ollama, RAG-based schema retrieval, multi-database support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/local-sql-agent?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/local-sql-agent?style=flat-square) |
+
+### 📊 Statistical & Data Science
+
 | Project | Description | Lang | Stars | Forks |
 |---|---|---|---|---|
 | 📊 [py-distfit-pro](https://github.com/alisadeghiaghili/py-distfit-pro) | Production-grade statistical distribution fitting — 30 distributions, MLE/MoM/Quantile, Bootstrap CI, multilingual (EN/FA/DE) | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/py-distfit-pro?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/py-distfit-pro?style=flat-square) |
-| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/farsi-faker?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/farsi-faker?style=flat-square) |
-| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
-| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
-| ⏬ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/smart-dl?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/smart-dl?style=flat-square) |
-| 🤖 [local-sql-agent](https://github.com/alisadeghiaghili/local-sql-agent) | Chat with your SQL database in plain English — fully local AI agent powered by Ollama, RAG-based schema retrieval, multi-database support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/local-sql-agent?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/local-sql-agent?style=flat-square) |
-| 📈 [daily-github-pulse](https://github.com/alisadeghiaghili/daily-github-pulse) | Discover GitHub’s top trending repositories filtered by language, recency, and star activity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/daily-github-pulse?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/daily-github-pulse?style=flat-square) |
-| 💰 [MultiRateScrapper](https://github.com/alisadeghiaghili/MultiRateScrapper) | Scrape Iranian financial rates (USD, gold, BTC, oil, stock index) from tgju.org into SQL Server | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/MultiRateScrapper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/MultiRateScrapper?style=flat-square) |
-| 🎵 [music-organizer](https://github.com/alisadeghiaghili/music-organizer) | Auto-organize MP3 libraries via metadata lookup & audio fingerprinting — GUI + CLI, duplicate merge, dry-run support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/music-organizer?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/music-organizer?style=flat-square) |
 | 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/distfitr?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/distfitr?style=flat-square) |
 | 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/missingly?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/missingly?style=flat-square) |
+
+### 🔧 Data Engineering & ETL
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
 | ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
-| 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/password-generator?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/password-generator?style=flat-square) |
-| 💹 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/tgju-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/tgju-data-collector?style=flat-square) |
+| 💰 [MultiRateScrapper](https://github.com/alisadeghiaghili/MultiRateScrapper) | Scrape Iranian financial rates (USD, gold, BTC, oil, stock index) from tgju.org into SQL Server | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/MultiRateScrapper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/MultiRateScrapper?style=flat-square) |
+| 📉 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/tgju-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/tgju-data-collector?style=flat-square) |
 | 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ice-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ice-data-collector?style=flat-square) |
+
+### 🛠️ Developer Tools
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/farsi-faker?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/farsi-faker?style=flat-square) |
+| 📈 [daily-github-pulse](https://github.com/alisadeghiaghili/daily-github-pulse) | Discover GitHub's top trending repositories filtered by language, recency, and star activity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/daily-github-pulse?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/daily-github-pulse?style=flat-square) |
+| 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/password-generator?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/password-generator?style=flat-square) |
+
+### 🌐 Network & Freedom Tools
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
+| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
+
+### 💻 Desktop & Utilities
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| ⬇ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/smart-dl?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/smart-dl?style=flat-square) |
+| 🎵 [music-organizer](https://github.com/alisadeghiaghili/music-organizer) | Auto-organize MP3 libraries via metadata lookup & audio fingerprinting — GUI + CLI, duplicate merge, dry-run support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/music-organizer?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/music-organizer?style=flat-square) |
 
 ---
 
