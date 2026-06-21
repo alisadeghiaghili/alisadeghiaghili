@@ -8,7 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedatascientist)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-sadeghi-aghili)
 [![Links](https://img.shields.io/badge/🔗_All_Links-lightgrey)](https://linktr.ee/aliaghili)
-
 ![Profile Views](https://komarev.com/ghpvc/?username=alisadeghiaghili&color=0077B5&style=flat-square&label=Profile+Views)
 
 </div>
