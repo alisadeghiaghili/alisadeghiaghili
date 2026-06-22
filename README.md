@@ -8,7 +8,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thedatascientist)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-sadeghi-aghili)
 [![Links](https://img.shields.io/badge/🔗_All_Links-lightgrey)](https://linktr.ee/aliaghili)
-![Profile Views](https://komarev.com/ghpvc/?username=alisadeghiaghili&color=0077B5&style=flat-square&label=Profile+Views)
 
 </div>
 
@@ -91,8 +90,8 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 | Project | Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch & aggregate public V2Ray server configs from GitHub | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
-| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automated DNS configuration tool | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
+| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch, aggregate & filter free V2Ray/Xray configs from GitHub — supports vmess, vless, trojan, and shadowsocks with smart deduplication | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
+| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automatically switch Windows DNS to Shecan — bypasses internet filtering for Iranian users via Python and batch scripts | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
 
 ### 💻 Desktop & Utilities
 
