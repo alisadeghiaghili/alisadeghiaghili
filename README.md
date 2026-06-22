@@ -9,6 +9,8 @@
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/ali-sadeghi-aghili)
 [![Links](https://img.shields.io/badge/🔗_All_Links-lightgrey)](https://linktr.ee/aliaghili)
 
+![Profile Views](https://komarev.com/ghpvc/?username=alisadeghiaghili&color=blue&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
