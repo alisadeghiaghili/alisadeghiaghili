@@ -56,6 +56,18 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ## 📦 Featured Projects
 
+### 🌟 Open-Source Collaboration
+
+| Project | Role | Description |
+|---|---|---|
+| 🌿 [learnGitBranching](https://github.com/pcottle/learnGitBranching) | Open-source contributor | Collaborated on a merged contribution ([PR #1417](https://github.com/pcottle/learnGitBranching/pull/1417)) improving Persian and German lessons, container hardening, and project tooling for this interactive Git tutorial. |
+
+### 📚 Learning in Public
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| 📚 [learning-log](https://github.com/alisadeghiaghili/learning-log) | A living bilingual (Persian/English) learning notebook with deep-dive notes, Anki-ready flashcards, progress tracking, and curated references across ML, math, SQL, DVC, Python, and web scraping. | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/learning-log?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/learning-log?style=flat-square) |
+
 ### 🤖 AI & LLM
 
 | Project | Description | Lang | Stars | Forks |
