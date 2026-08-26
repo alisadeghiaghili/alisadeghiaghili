@@ -84,17 +84,22 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 | 🧹 [data-quality-toolkit](https://github.com/alisadeghiaghili/data-quality-toolkit) | General-purpose data quality, cleaning, profiling, and performance utilities for pandas DataFrames | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/data-quality-toolkit?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/data-quality-toolkit?style=flat-square) |
 | 📈 [pmi-analyzer](https://github.com/alisadeghiaghili/pmi-analyzer) | Python toolkit for parsing, analyzing, visualizing, and reporting Iran's PMI (Shamkh) data from ICCIMA PDFs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/pmi-analyzer?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/pmi-analyzer?style=flat-square) |
 
-### 🔧 Data Engineering & ETL
+### 🕸️ Data Gathering
 
 | Project | Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
 | 💰 [MultiRateScrapper](https://github.com/alisadeghiaghili/MultiRateScrapper) | Scrape Iranian financial rates (USD, gold, BTC, oil, stock index) from tgju.org into SQL Server | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/MultiRateScrapper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/MultiRateScrapper?style=flat-square) |
 | 📉 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/tgju-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/tgju-data-collector?style=flat-square) |
 | 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ice-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ice-data-collector?style=flat-square) |
 | 🧪 [wikiplast-scraper](https://github.com/alisadeghiaghili/wikiplast-scraper) | Stealth web scraper for WikiPlast (wikiplast.ir) — extracts 13,000+ companies, 660+ polymer grades, global prices, petrochemical data, and news into CSV | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/wikiplast-scraper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/wikiplast-scraper?style=flat-square) |
 | 🏠 [iran-household-data](https://github.com/alisadeghiaghili/iran-household-data) | Comprehensive Iranian household indicators (1960-2025) for prediction tasks — demographics, economy, health, education, energy, and migration data sourced from World Bank DataBank | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/iran-household-data?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/iran-household-data?style=flat-square) |
 | 💹 [iran-inflation-data](https://github.com/alisadeghiaghili/iran-inflation-data) | Iranian inflation data collection and analysis | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/iran-inflation-data?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/iran-inflation-data?style=flat-square) |
+
+### 🔧 Data Engineering & ETL
+
+| Project | Description | Lang | Stars | Forks |
+|---|---|---|---|---|
+| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
 
 ### 🛠️ Developer Tools
 
