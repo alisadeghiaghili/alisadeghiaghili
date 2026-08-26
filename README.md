@@ -58,9 +58,9 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🌟 Open-Source Collaboration
 
-| Project | Role | Description |
-|---|---|---|
-| 🌿 [learnGitBranching](https://github.com/pcottle/learnGitBranching) | Open-source contributor | Collaborated on a merged contribution ([PR #1417](https://github.com/pcottle/learnGitBranching/pull/1417)) improving Persian and German lessons, container hardening, and project tooling for this interactive Git tutorial. |
+| Project | Role | Description | Stars | Forks |
+|---|---|---|---|---|
+| 🌿 [learnGitBranching](https://github.com/pcottle/learnGitBranching) | Open-source contributor | Collaborated on a merged contribution ([PR #1417](https://github.com/pcottle/learnGitBranching/pull/1417)) improving Persian and German lessons, container hardening, and project tooling for this interactive Git tutorial. | ![stars](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=flat-square) | ![forks](https://img.shields.io/github/forks/pcottle/learnGitBranching?style=flat-square) |
 
 ### 📚 Learning in Public
 
