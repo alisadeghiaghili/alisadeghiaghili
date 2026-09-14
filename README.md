@@ -58,7 +58,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🌟 Open-Source Collaboration
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -70,7 +70,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 📚 Learning in Public
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -82,7 +82,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🤖 AI & LLM
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -94,7 +94,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 📊 Statistical & Data Science
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -110,7 +110,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🕸️ Data Gathering
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -127,7 +127,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🔧 Data Engineering & ETL
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -139,7 +139,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🛠️ Developer Tools
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -153,7 +153,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🌐 Network & Freedom Tools
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
@@ -166,7 +166,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 💻 Desktop & Utilities
 
-<table style="width:100%">
+<table style="width:100%;table-layout:fixed">
 <colgroup><col style="width:17%"><col style="width:49%"><col style="width:10%"><col style="width:12%"><col style="width:12%"></colgroup>
 <thead>
 <tr><th>Project</th><th>Description</th><th>Lang</th><th>Stars</th><th>Forks</th></tr>
