@@ -114,7 +114,7 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 | Project | Description | Lang | Stars | Forks |
 |---|---|---|---|---|
 | 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch, aggregate & filter free V2Ray/Xray configs from GitHub — supports vmess, vless, trojan, and shadowsocks with smart deduplication | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
-| 🌐 [ShecanDNSSetter](https://github.com/alisadeghiaghili/ShecanDNSSetter) | Automatically switch Windows DNS to Shecan — bypasses internet filtering for Iranian users via Python and batch scripts | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ShecanDNSSetter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ShecanDNSSetter?style=flat-square) |
+| 🌐 [free-dns-setter](https://github.com/alisadeghiaghili/free-dns-setter) | One-click Windows DNS manager for Iranian users — verified anti-sanction, gaming, and general resolvers with a right-to-left GUI and CLI | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/free-dns-setter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/free-dns-setter?style=flat-square) |
 
 ### 💻 Desktop & Utilities
 
