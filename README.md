@@ -58,36 +58,36 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🌟 Open-Source Collaboration
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 🌿 [learnGitBranching](https://github.com/pcottle/learnGitBranching) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Open-source contributor — merged contribution ([PR #1417](https://github.com/pcottle/learnGitBranching/pull/1417)) improving Persian and German lessons, container hardening, and project tooling for this interactive Git tutorial. | JavaScript | ![stars](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=flat-square) | ![forks](https://img.shields.io/github/forks/pcottle/learnGitBranching?style=flat-square) |
+| 🌿 [learnGitBranching](https://github.com/pcottle/learnGitBranching) | Open-source contributor — merged contribution ([PR #1417](https://github.com/pcottle/learnGitBranching/pull/1417)) improving Persian and German lessons, container hardening, and project tooling for this interactive Git tutorial. | JavaScript | ![stars](https://img.shields.io/github/stars/pcottle/learnGitBranching?style=flat-square) | ![forks](https://img.shields.io/github/forks/pcottle/learnGitBranching?style=flat-square) |
 
 ### 📚 Learning in Public
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 📚 [learning-log](https://github.com/alisadeghiaghili/learning-log) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> A living bilingual (Persian/English) learning notebook with deep-dive notes, Anki-ready flashcards, progress tracking, and curated references across ML, math, SQL, DVC, Python, and web scraping. | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/learning-log?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/learning-log?style=flat-square) |
+| 📚 [learning-log](https://github.com/alisadeghiaghili/learning-log) | A living bilingual (Persian/English) learning notebook with deep-dive notes, Anki-ready flashcards, progress tracking, and curated references across ML, math, SQL, DVC, Python, and web scraping. | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/learning-log?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/learning-log?style=flat-square) |
 
 ### 🤖 AI & LLM
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 🤖 [local-sql-agent](https://github.com/alisadeghiaghili/local-sql-agent) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Chat with your SQL database in plain English — fully local AI agent powered by Ollama, RAG-based schema retrieval, multi-database support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/local-sql-agent?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/local-sql-agent?style=flat-square) |
+| 🤖 [local-sql-agent](https://github.com/alisadeghiaghili/local-sql-agent) | Chat with your SQL database in plain English — fully local AI agent powered by Ollama, RAG-based schema retrieval, multi-database support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/local-sql-agent?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/local-sql-agent?style=flat-square) |
 
 ### 📊 Statistical & Data Science
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 📊 [veridist](https://github.com/alisadeghiaghili/veridist) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Evidence-backed distribution fitting with bounded streaming, strict censored-lifetime estimation, and multilingual docs (EN/FA/DE) | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/veridist?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/veridist?style=flat-square) |
+| 📊 [veridist](https://github.com/alisadeghiaghili/veridist) | Evidence-backed distribution fitting with bounded streaming, strict censored-lifetime estimation, and multilingual docs (EN/FA/DE) | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/veridist?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/veridist?style=flat-square) |
 | 📊 [distfitr](https://github.com/alisadeghiaghili/distfitr) | Statistical distribution fitting toolkit | R | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/distfitr?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/distfitr?style=flat-square) |
 | 🔍 [missingly](https://github.com/alisadeghiaghili/missingly) | Missing data detection & analysis | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/missingly?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/missingly?style=flat-square) |
 | 🧹 [data-quality-toolkit](https://github.com/alisadeghiaghili/data-quality-toolkit) | General-purpose data quality, cleaning, profiling, and performance utilities for pandas DataFrames | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/data-quality-toolkit?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/data-quality-toolkit?style=flat-square) |
 
 ### 🕸️ Data Gathering
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 💰 [MultiRateScrapper](https://github.com/alisadeghiaghili/MultiRateScrapper) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Scrape Iranian financial rates (USD, gold, BTC, oil, stock index) from tgju.org into SQL Server | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/MultiRateScrapper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/MultiRateScrapper?style=flat-square) |
+| 💰 [MultiRateScrapper](https://github.com/alisadeghiaghili/MultiRateScrapper) | Scrape Iranian financial rates (USD, gold, BTC, oil, stock index) from tgju.org into SQL Server | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/MultiRateScrapper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/MultiRateScrapper?style=flat-square) |
 | 📉 [tgju-data-collector](https://github.com/alisadeghiaghili/tgju-data-collector) | Financial market data collector from tgju.org | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/tgju-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/tgju-data-collector?style=flat-square) |
 | 🏭 [ice-data-collector](https://github.com/alisadeghiaghili/ice-data-collector) | Scraper for ICE market data | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/ice-data-collector?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/ice-data-collector?style=flat-square) |
 | 🧪 [wikiplast-scraper](https://github.com/alisadeghiaghili/wikiplast-scraper) | Stealth web scraper for WikiPlast (wikiplast.ir) — extracts 13,000+ companies, 660+ polymer grades, global prices, petrochemical data, and news into CSV | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/wikiplast-scraper?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/wikiplast-scraper?style=flat-square) |
@@ -97,30 +97,30 @@ Currently leading AI & data initiatives at **IME**, where I architect data pipel
 
 ### 🔧 Data Engineering & ETL
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
+| ⚙️ [apache_airflow_dags](https://github.com/alisadeghiaghili/apache_airflow_dags) | Production-grade Apache Airflow DAG collection | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/apache_airflow_dags?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/apache_airflow_dags?style=flat-square) |
 
 ### 🛠️ Developer Tools
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Generate realistic fake Persian names for testing & development | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/farsi-faker?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/farsi-faker?style=flat-square) |
+| 🇮🇷 [farsi-faker](https://github.com/alisadeghiaghili/farsi-faker) | Generate realistic fake Persian names for testing & development | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/farsi-faker?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/farsi-faker?style=flat-square) |
 | 📈 [daily-github-pulse](https://github.com/alisadeghiaghili/daily-github-pulse) | Discover GitHub's top trending repositories filtered by language, recency, and star activity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/daily-github-pulse?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/daily-github-pulse?style=flat-square) |
 | 🔑 [password-generator](https://github.com/alisadeghiaghili/password-generator) | Secure CLI password generator with guaranteed complexity | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/password-generator?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/password-generator?style=flat-square) |
 
 ### 🌐 Network & Freedom Tools
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Fetch, aggregate & filter free V2Ray/Xray configs from GitHub — supports vmess, vless, trojan, and shadowsocks with smart deduplication | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
+| 🔒 [v2ray-finder](https://github.com/alisadeghiaghili/v2ray-finder) | Fetch, aggregate & filter free V2Ray/Xray configs from GitHub — supports vmess, vless, trojan, and shadowsocks with smart deduplication | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/v2ray-finder?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/v2ray-finder?style=flat-square) |
 | 🌐 [free-dns-setter](https://github.com/alisadeghiaghili/free-dns-setter) | One-click Windows DNS manager for Iranian users — verified anti-sanction, gaming, and general resolvers with a right-to-left GUI and CLI | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/free-dns-setter?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/free-dns-setter?style=flat-square) |
 
 ### 💻 Desktop & Utilities
 
-| Project | Description | Lang | Stars | Forks |
+| <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Project | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="3000" height="1"> Description | Lang | Stars | Forks |
 |---|---|---|---|---|
-| ⬇ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" width="200" height="1"> Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/smart-dl?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/smart-dl?style=flat-square) |
+| ⬇ [smart-dl](https://github.com/alisadeghiaghili/smart-dl) | Resilient multi-threaded YouTube & podcast downloader built for unstable networks & VPNs | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/smart-dl?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/smart-dl?style=flat-square) |
 | 🎵 [music-organizer](https://github.com/alisadeghiaghili/music-organizer) | Auto-organize MP3 libraries via metadata lookup & audio fingerprinting — GUI + CLI, duplicate merge, dry-run support | Python | ![stars](https://img.shields.io/github/stars/alisadeghiaghili/music-organizer?style=flat-square) | ![forks](https://img.shields.io/github/forks/alisadeghiaghili/music-organizer?style=flat-square) |
 
 ---
